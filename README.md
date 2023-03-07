@@ -1,4 +1,4 @@
-# [portfolio](https://github.com/fklaggesd/portfolio)
+# [Portfolio](https://github.com/fklaggesd/portfolio)
 
 # [Project 1 :Diabetes Analysis](https://github.com/fklaggesd/portfolio/blob/main/Project_Diabetes_Analysis.ipynb)
 # Context
