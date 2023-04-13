@@ -7,7 +7,7 @@ Diabetes is one of the most frequent diseases worldwide and the number of diabet
 A few years ago research was done on a tribe in America which is called the Pima tribe (also known as the Pima Indians). In this tribe, it was found that women are prone to diabetes very early. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients were females at least 21 years old of Pima Indian heritage.
 
 # Objective
-- Here, we are analyzing different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
+- Aanalyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
 
 # [Project 2: Credit Card User Churn Prediction](https://github.com/fklaggesd/portfolio/blob/main/Credit_Card_Users_Churn_Prediction.ipynb)
 
@@ -27,8 +27,8 @@ Customers’ leaving credit cards services would lead bank to loss, so the bank 
 McCurr Healthcare Consultancy is an MNC that has thousands of employees spread out across the globe. The company believes in hiring the best talent available and retaining them for as long as possible. A huge amount of resources is spent on retaining existing employees through various initiatives. The Head of People Operations wants to bring down the cost of retaining employees. For this, he proposes limiting the incentives to only those employees who are at risk of attrition. As a recently hired Data Scientist in the People Operations Department, you have been asked to identify patterns in characteristics of employees who leave the organization. Also, you have to use this information to predict if an employee is at risk of attrition. This information will be used to target them with incentives.
 
 # Objective 
-- To identify the different factors that drive attrition
-- To make a model to predict if an employee will attrite or not
+- Identify the different factors that drive attrition
+- Make a predictive model of if an employee will attrite or not
 
 # [Project 4: Poor countries Grow Faster?](https://github.com/fklaggesd/Portfolio_FKD/blob/main/Poor_Countries_Grow_Faster.ipynb)
 
