@@ -11,9 +11,7 @@ Diabetes is a common disease with increasing numbers of patients worldwide, and 
 
 # Context
 
-The Thera bank recently saw a steep decline in the number of users of their credit card, credit cards are a good source of income for banks because of different kinds of fees charged by the banks like annual fees, balance transfer fees, and cash advance fees, late payment fees, foreign transaction fees, and others. Some fees are charged to every user irrespective of usage, while others are charged under specified circumstances.
-
-Customers’ leaving credit cards services would lead bank to loss, so the bank wants to analyze the data of customers and identify the customers who will leave their credit card services and reason for same – so that bank could improve upon those areas
+The Thera bank has experienced a significant decrease in credit card usage, which is a profitable source of income due to various fees charged by the bank. To avoid losses, the bank aims to analyze customer data to identify which customers are leaving the credit card services and the reasons behind it, in order to improve in those areas.
 
  # Objective
  
@@ -22,7 +20,7 @@ Customers’ leaving credit cards services would lead bank to loss, so the bank 
 # [Project 3: Case Study Employee Attrition](https://github.com/fklaggesd/Portfolio_FKD/blob/main/Case_Study_Employee_Attrition.ipynb)
 
 # Context
-McCurr Healthcare Consultancy is an MNC that has thousands of employees spread out across the globe. The company believes in hiring the best talent available and retaining them for as long as possible. A huge amount of resources is spent on retaining existing employees through various initiatives. The Head of People Operations wants to bring down the cost of retaining employees. For this, he proposes limiting the incentives to only those employees who are at risk of attrition. As a recently hired Data Scientist in the People Operations Department, you have been asked to identify patterns in characteristics of employees who leave the organization. Also, you have to use this information to predict if an employee is at risk of attrition. This information will be used to target them with incentives.
+McCurr Healthcare Consultancy is a global organization that prioritizes hiring and retaining top talent by investing significant resources. To reduce retention costs, the Head of People Operations suggests offering incentives only to employees at risk of leaving. As a newly appointed Data Scientist in the People Operations Department, your role is to analyze the characteristics of former employees who left the company and predict which current employees are at risk of attrition to provide targeted incentives.
 
 # Objective 
 - Identify the different factors that drive attrition
@@ -32,7 +30,7 @@ McCurr Healthcare Consultancy is an MNC that has thousands of employees spread o
 
 # Context
 
-The Barro Lee data consists of a panel of 138 countries for the period 1960 to 1985. The dependent variable is national growth rates in GDP per capita for the periods 1965-1975 and 1975-1985. The growth rate in GDP over a period from t1 to t2 is commonly defined as log(GDPt1 /GDPt2 ). The number of variables are p=62. The number of complete observations is n=90.
+The Barro Lee dataset is a panel of 138 countries from 1960 to 1985. It measures national growth rates in GDP per capita between 1965-1975 and 1975-1985, calculated as the logarithmic difference in GDP from time t1 to t2. The dataset contains 62 variables, with a total of 90 complete observations.
 
 The full data set and further details can be found at http://www.nber.org/pub/barro.lee, http: //www.barrolee.com, and, http://www.bristol.ac.uk//Depts//Economics//Growth//barlee.htm.
 
