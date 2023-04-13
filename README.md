@@ -5,7 +5,7 @@
 Diabetes is a common disease with increasing numbers of patients worldwide, and its cause is believed to be influenced by both genetics and lifestyle. Research conducted on the Pima tribe, a group of Native Americans, found that women of at least 21 years of age with Pima Indian heritage are prone to early-onset diabetes. The study included only female patients from the tribe as the selection criteria.
 
 # Objective
-- Aanalyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
+- Analyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
 
 # [Project 2: Credit Card User Churn Prediction](https://github.com/fklaggesd/portfolio/blob/main/Credit_Card_Users_Churn_Prediction.ipynb)
 
