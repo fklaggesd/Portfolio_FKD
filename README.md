@@ -2,9 +2,7 @@
 
 # [Project 1 :Diabetes Analysis](https://github.com/fklaggesd/portfolio/blob/main/Project_Diabetes_Analysis.ipynb)
 # Context
-Diabetes is one of the most frequent diseases worldwide and the number of diabetic patients are growing over the years. The main cause of diabetes remains unknown, yet scientists believe that both genetic factors and environmental lifestyle play a major role in diabetes.
-
-A few years ago research was done on a tribe in America which is called the Pima tribe (also known as the Pima Indians). In this tribe, it was found that women are prone to diabetes very early. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients were females at least 21 years old of Pima Indian heritage.
+Diabetes is a common disease with increasing numbers of patients worldwide, and its cause is believed to be influenced by both genetics and lifestyle. Research conducted on the Pima tribe, a group of Native Americans, found that women of at least 21 years of age with Pima Indian heritage are prone to early-onset diabetes. The study included only female patients from the tribe as the selection criteria.
 
 # Objective
 - Aanalyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
